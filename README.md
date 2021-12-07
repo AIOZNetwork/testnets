@@ -9,4 +9,4 @@ To get started with the latest testnet, see the
 
 ## Testnet Status
 
-⚠️ Latest testnet: [TESTNET-1](./TESTNET-1) ⚠️
+⚠️ Latest testnet: [testnet_11-1](./testnet_11-1) ⚠️
