@@ -1,0 +1,6 @@
+{
+	"binaries": {
+		"linux/amd64": "https://archive.aioz.network/aiozd-v1.7.0-linux-amd64?checksum=sha256:7bf2b8a9121e5d4a3fbb56630259ec6fb5d5245d51c95c534d95d067be8984d1",
+		"windows/amd64": "https://archive.aioz.network/aiozd-v1.7.0-windows-amd64.exe?checksum=sha256:1f7ad1555407f7324d81bbe002874104eff90db57c18676d9bcdac6eb2363172"
+	}
+}
